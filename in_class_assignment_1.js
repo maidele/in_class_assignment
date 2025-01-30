@@ -20,7 +20,8 @@ if (score >=60) {
 };
 
 //Task 3
-for (let index = 0; 1 < array.length; index++) {
-    const element = array[index];
+for (let i=10 < i >=1; i--);
+     {
+    console.log (i);
     
 }
