@@ -35,7 +35,7 @@ while (num <= 10)
     }
 
 //Task 5
-function calculateSquare (num)
+function 'calculateSquare' (num)
     return num *num;{
-        console.log (calculateSquare (4))); //
+        console.log (calculateSquare (4)); //
     Output: 16}
