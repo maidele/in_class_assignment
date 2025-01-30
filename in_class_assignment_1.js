@@ -12,7 +12,7 @@ if (expenses > 7000) {
 
 //Task 2
 
-let score = 70;
+let score = passed;
 if (score >=60) {
     console.log ("Passed");
 } else {
@@ -27,9 +27,15 @@ for (let i=10 < i >=1; i--);
 }
 
 //Task 4
-let count =2;
+let count =2//
 
 while (num <= 10) 
     { console.log(num);
         num+=2;
+    }
+
+//Task 5
+function calculateSquare (num)
+    return num *num;{
+        console.log (calculateSquare (4)))
     }
