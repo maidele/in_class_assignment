@@ -19,3 +19,8 @@ if (score >=60) {
     console.log ("Failed");
 };
 
+//Task 3
+for (let index = 0; 1 < array.length; index++) {
+    const element = array[index];
+    
+}
